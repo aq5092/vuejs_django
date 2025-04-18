@@ -1,0 +1,1 @@
+export const logo = "../icons/django_vue.jpeg";
